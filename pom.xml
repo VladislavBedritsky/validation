@@ -16,7 +16,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
-        <org.springframework.version>4.3.14.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.18</org.springframework.version>
         <thymeleaf-spring.version>3.0.9.RELEASE</thymeleaf-spring.version>
         <javax.validation.version>2.0.0.Final</javax.validation.version>
 
